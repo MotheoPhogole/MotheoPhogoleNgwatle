@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/motheophogole" target="blank"><img src="https://img.shields.io/twitter/follow/motheophogole?logo=twitter&style=for-the-badge" alt="motheophogole" /></a> </p>
 
-- 🌱 I’m currently learning **C++, HTML and CSS**
+- 🌱 I’m currently learning **C++, HTML, CSS AND JAVA**
 
-- 💬 Ask me about **School, programing**
+- 💬 Ask me about **School, programing and things in the tech feild**
 
 - 📫 How to reach me **motheophogole@gmail.com**
 
